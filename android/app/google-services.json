@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94352646371",
+    "project_id": "stardew-recipes",
+    "storage_bucket": "stardew-recipes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94352646371:android:5b077d31e00607d747e5d6",
+        "android_client_info": {
+          "package_name": "com.bruno.stardewvalleyrecipes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCByyXZ5cuvczjNcMHlRdOegD86n1Yj9-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94352646371:android:c847ea1487b42f4447e5d6",
+        "android_client_info": {
+          "package_name": "com.dam2024.stardew_recipes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCByyXZ5cuvczjNcMHlRdOegD86n1Yj9-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
